@@ -27,4 +27,4 @@ To exit the game, type "Exit."
 
 After the game, check "not_guessed_states.csv" for unguessed states.
 
-## Note: This game is designed for educational purposes, helping users learn the names and locations of US states interactively. You change it to any country's map and its states. Just change the image file and the states.csv file.
+## Note: This game is designed for educational purposes, helping users learn the names and locations of US states interactively. You can change it to any country's map and its states. Just change the image file and the states.csv file.
